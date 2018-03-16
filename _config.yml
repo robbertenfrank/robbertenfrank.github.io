@@ -4,7 +4,7 @@ subtitle:
 email: info@robbertenfrank.com
 description: Een project in het kader van Kortrijk Europese Sportstad 2018 <br/>Frank&Robbert Robbert&Frank i.s.m. Buda VZW, Bubox en Stad Kortrijk.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "www.sportfaces.be" # the base hostname & protocol for your siteauthor: Robbert&Frank Frank&Robbert
+url: "" # the base hostname & protocol for your siteauthor: Robbert&Frank Frank&Robbert
 street_address:
 city:
 state:
