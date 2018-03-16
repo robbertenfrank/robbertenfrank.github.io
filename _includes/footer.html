@@ -24,39 +24,30 @@
 		<section class="split">
 			<section>
 				<div class="contact-method">
-					<span class="icon alt fa-envelope"></span>
-					<h3>Email</h3>
-					<a href="#">{{ site.email }}</a>
+					<span class="icon alt fa-facebook"></span>
+					<h3>Facebook</h3>
+					<p> Deel jouw eigen beste sportgezicht op onze facebookpagina!</p>
+					<a href="{{ site.instagram_url }}">{{ site.facebook_url }}</a>
 				</div>
 			</section>
 			<section>
 				<div class="contact-method">
-					<span class="icon alt fa-phone"></span>
-					<h3>Phone</h3>
-					<span>{{ site.phone }}</span>
+					<span class="icon alt fa-instagram"></span>
+					<h3>Instagram</h3>
+					<p>Volg het project op instagram!</p>
+					<a href="{{ site.instagram_url }}">{{ site.instagram_url }}</a>
 				</div>
 			</section>
 			<section>
 				<div class="contact-method">
-					<span class="icon alt fa-home"></span>
-					<h3>Address</h3>
-					<span>
-					{% if site.street_address %}
-					    {{ site.street_address }}<br />
-					{% endif %}
-					{% if site.city %}
-					    {{ site.city }},
-					{% endif %}
-					{% if site.state %}
-					    {{ site.state }} 
-					{% endif %}
-					{% if site.zip_code %}
-					    {{ site.zip_code }}<br />
-					{% endif %}
-					{% if site.country %}
-					    {{ site.country }}
-					{% endif %}
-					</span>
+					<div class="box alt">
+						<div class="row 50% uniform">
+							<div class="12u$"><span class="image fit"><img src="assets/images/LogoKortrijkSportstad-small.png" alt="Logo Kortrijk Sportstad" /></span></div>
+							<div class="4u"><span class="image fit"><img src="assets/images/LogoBudaVZW-small.png" alt="Logo Buda VZW" /></span></div>
+							<div class="4u"><span class="image fit"><img src="assets/images/LogoBubox-small.png" alt="Logo Bubox" /></span></div>
+							<div class="4u$"><span class="image fit"><img src="assets/images/LogoStadKortrijk-small.png" alt="Logo Stad Kortrijk" /></span></div>
+						</div>
+					</div>
 				</div>
 			</section>
 		</section>
