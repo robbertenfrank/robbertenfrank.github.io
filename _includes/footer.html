@@ -2,7 +2,7 @@
 <section id="contact">
 	<div class="inner">
 		<section>
-			<form action="https://formspree.io/{{ site.email }}" method="POST">
+			<!-- <form action="https://formspree.io/{{ site.email }}" method="POST">
 				<div class="field half first">
 					<label for="name">Name</label>
 					<input type="text" name="name" id="name" />
@@ -19,7 +19,22 @@
 					<li><input type="submit" value="Send Message" class="special" /></li>
 					<li><input type="reset" value="Clear" /></li>
 				</ul>
-			</form>
+			</form> -->
+            
+            <script type="text/javascript">
+                var feed = new Instafeed({
+                    get: 'popular',
+                    tagName: 'awesome',
+                    clientId: '2028166473',
+                    template: '<a class="animation" href="{{link}}"><img src="{{image}}" /></a>'
+                });
+                feed.run();
+            </script>
+            
+            <div id="instafeed">
+                <a href="https://www.instagram.com/r_en_f/" class="instatext" target="_blank"><h1>#R_en_F</h1></a>
+            </div>
+            
 		</section>
 		<section class="split">
 			<section>
