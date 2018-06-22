@@ -17,4 +17,4 @@ Volg hun op [Instagram](https://www.instagram.com/r_en_f "R&F F&R instagram") en
 
 Volg de theaterproducties via [campo.nu](https://www.campo.nu/nl/artist/721/robbertfrank-frankrobbert "R&F F&R Theater").
 
-![logo R&F]({{ site.url | absolute_path}}/forty-jekyll-theme/assets/images/logo-R&F-handtekening-wit.png)
+![logo R&F]({{ site.url | absolute_path}}/assets/images/logo-R&F-handtekening-wit.png)
