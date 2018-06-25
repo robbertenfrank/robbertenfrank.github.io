@@ -18,31 +18,31 @@ Sportpersoon: Lore Bonte
 
 ![logo R&F]({{ site.url | absolute_path}}/assets/images/Kortrijk-kop-4.png)     
 Credit foto: Geert Vandevyver      
-Sportpersoon: Unknown (weet jij wie dit is, [Laat het ons weten](mailto:info@robbertenfrank.com)
+Sportpersoon: Joris Moeyaert
 
 ![logo R&F]({{ site.url | absolute_path}}/assets/images/Kortrijk-kop-5.png)     
 Credit foto: Geert Vandevyver      
-Sportpersoon: Unknown (weet jij wie dit is, [Laat het ons weten](mailto:info@robbertenfrank.com)
+Sportpersoon: Lies Veys
 
 ![logo R&F]({{ site.url | absolute_path}}/assets/images/Kortrijk-kop-6.png)     
 Credit foto: Geert Vandevyver      
-Sportpersoon: Unknown (weet jij wie dit is, [Laat het ons weten](mailto:info@robbertenfrank.com)
+Sportpersoon: Andy Vandenbogaerde
 
 ![logo R&F]({{ site.url | absolute_path}}/assets/images/Kortrijk-kop-7.png)     
 Credit foto: Geert Vandevyver      
-Sportpersoon: Unknown (weet jij wie dit is, [Laat het ons weten](mailto:info@robbertenfrank.com)
+Sportpersoon: Marc Cremelie
 
 ![logo R&F]({{ site.url | absolute_path}}/assets/images/Kortrijk-kop-8.png)     
 Credit foto: Geert Vandevyver      
-Sportpersoon: Unknown (weet jij wie dit is, [Laat het ons weten](mailto:info@robbertenfrank.com)
+Sportpersoon: Steven Cossement
 
 ![logo R&F]({{ site.url | absolute_path}}/assets/images/Kortrijk-kop-9.png)     
-Credit foto: Unknown      
+Credit foto: KZK Kortrijkse Zwemkring      
 Sportpersoon: Henri Devolder
 
 ![logo R&F]({{ site.url | absolute_path}}/assets/images/Kortrijk-kop-11.png)     
-Credit foto: Unknown     
-Sportpersoon: Unknown (weet jij wie dit is, [Laat het ons weten](mailto:info@robbertenfrank.com)
+Credit foto: Koninklijke Turnvereniging Kortrijk vzw     
+Sportpersoon: Hélène Logie
 
 ![logo R&F]({{ site.url | absolute_path}}/assets/images/Kortrijk-kop-12.png)     
 Credit foto: Koninklijke Kortrijk Sport Atletiek VZW     
